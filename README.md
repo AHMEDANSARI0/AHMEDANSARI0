@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @AHMEDANSARI0
-- 👀 I’m interested in E-Commerce, Designing & also Coding
-- 🌱 I’m currently learning Generative AI 
-- 📫 How to reach me ahmedehtesham15@gmail.com, my whatsapp No. 03122990563, MY Facebook id: AHMED ANSARI, INSTAGRAM: ahmed_ansari_official 
-- 😄 Pronouns: AHMED
-- 
-
-<!---
-AHMEDANSARI0/AHMEDANSARI0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.# Ahmed Ansari
+Ahmed Ansari
 
 <div align="center">
 
@@ -20,7 +12,7 @@ I build intelligent AI agents, autonomous workflows, and AI-powered systems that
 
 <a href="https://ahmedansari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/AHMEDANSARI0"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://linkedin.com/in/ahmedansari15"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Agentic+AI+Systems;Engineering+Intelligent+Automations;Designing+Autonomous+AI+Workflows;Turning+Complex+Problems+Into+AI+Solutions" />
 
@@ -287,7 +279,7 @@ Whether it's discussing an AI architecture, solving a business automation challe
 <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/ahmedansari15">
 <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -299,3 +291,11 @@ Whether it's discussing an AI architecture, solving a business automation challe
 
 </div>
 You can click the Preview link to ta
+
+
+
+
+
+
+
+
