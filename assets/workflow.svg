@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="900" height="100">
+<style>text{font-family:'JetBrains Mono',Consolas,'DejaVu Sans Mono',monospace}
+.fl{stroke-dasharray:6 6;animation:d 1s linear infinite}@keyframes d{to{stroke-dashoffset:-12}}
+.glow{animation:g 2.4s ease-in-out infinite}@keyframes g{50%{stroke:#8fd0ff;stroke-width:3}}</style>
+<rect x="20" y="22" width="140" height="58" rx="12" fill="#0b1a33" stroke="#4f7db5" stroke-width="1.5"/>
+<text x="90.0" y="46" text-anchor="middle" font-size="14" font-weight="700" fill="#cfe3fa">Trigger</text>
+<text x="90.0" y="65" text-anchor="middle" font-size="11" fill="#7fa6d6">webhook · cron</text>
+<line x1="164" y1="51" x2="196" y2="51" stroke="#8fb8e8" stroke-width="2" class="fl"/>
+<rect x="200" y="22" width="140" height="58" rx="12" fill="#0b1a33" stroke="#4f7db5" stroke-width="1.5" class="glow"/>
+<text x="270.0" y="46" text-anchor="middle" font-size="14" font-weight="700" fill="#cfe3fa">Agent Brain</text>
+<text x="270.0" y="65" text-anchor="middle" font-size="11" fill="#7fa6d6">LLM · planning</text>
+<line x1="344" y1="51" x2="376" y2="51" stroke="#8fb8e8" stroke-width="2" class="fl"/>
+<rect x="380" y="22" width="140" height="58" rx="12" fill="#0b1a33" stroke="#4f7db5" stroke-width="1.5"/>
+<text x="450.0" y="46" text-anchor="middle" font-size="14" font-weight="700" fill="#cfe3fa">Tool Calls</text>
+<text x="450.0" y="65" text-anchor="middle" font-size="11" fill="#7fa6d6">APIs · n8n</text>
+<line x1="524" y1="51" x2="556" y2="51" stroke="#8fb8e8" stroke-width="2" class="fl"/>
+<rect x="560" y="22" width="140" height="58" rx="12" fill="#0b1a33" stroke="#4f7db5" stroke-width="1.5"/>
+<text x="630.0" y="46" text-anchor="middle" font-size="14" font-weight="700" fill="#cfe3fa">Memory</text>
+<text x="630.0" y="65" text-anchor="middle" font-size="11" fill="#7fa6d6">RAG · context</text>
+<line x1="704" y1="51" x2="736" y2="51" stroke="#8fb8e8" stroke-width="2" class="fl"/>
+<rect x="740" y="22" width="140" height="58" rx="12" fill="#0b1a33" stroke="#4f7db5" stroke-width="1.5"/>
+<text x="810.0" y="46" text-anchor="middle" font-size="14" font-weight="700" fill="#cfe3fa">Auto Action</text>
+<text x="810.0" y="65" text-anchor="middle" font-size="11" fill="#7fa6d6">execute · report</text>
+</svg>
