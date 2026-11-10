@@ -36,11 +36,6 @@
 </p>
 
 <p align="center"><img src="assets/particles.svg" width="100%" alt=""/></p>
-
-<h2 align="center"><img src="assets/icon.svg" width="22" height="22" align="absmiddle"> <i>Statistics</i></h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AHMEDANSARI0&custom_title=Ahmed%20Ansari%27s%20Contribution%20Graph&bg_color=020c1b&color=8fb8e8&line=6fa3e0&point=ffffff&area=true&area_color=3b6fb0&title_color=cfe3fa&hide_border=false&radius=4" width="100%" alt="Contribution Graph"/>
 </p>
 
 <h2 align="center"><img src="assets/icon.svg" width="22" height="22" align="absmiddle"> <i>About Me</i></h2>
@@ -68,9 +63,9 @@ Hello! My name is **Ahmed Ansari**, and I am an **AI Automation Engineer** & Ful
 
 <table align="center">
 <tr>
-<td align="center" width="33%"><b><a href="https://github.com/AHMEDANSARI0/Omniflow">◈ OmniFlow</a></b><br/>AI-powered business automation and intelligent customer interaction.</td>
-<td align="center" width="33%"><b><a href="https://github.com/AHMEDANSARI0/Omni-Assistant">◉ Omni-Assistant</a></b><br/>A local-first AI assistant that understands, plans and executes tasks.</td>
-<td align="center" width="33%"><b><a href="https://github.com/AHMEDANSARI0/e-com">⌘ Nabat</a></b><br/>A modern e-commerce experience with a database-driven backend.</td>
+<td align="center" width="33%"><b><a href="https://github.com/AHMEDANSARI0/Omniflow">OmniFlow</a></b><br/>AI-powered business automation and intelligent customer interaction.</td>
+<td align="center" width="33%"><b><a href="https://github.com/AHMEDANSARI0/Omni-Assistant">Omni-Assistant</a></b><br/>A local-first AI assistant that understands, plans and executes tasks.</td>
+<td align="center" width="33%"><b><a href="https://github.com/AHMEDANSARI0/e-com">Nabat</a></b><br/>A modern e-commerce experience with a database-driven backend.</td>
 </tr>
 </table>
 
