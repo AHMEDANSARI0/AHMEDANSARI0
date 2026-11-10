@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-<style>.r{transform-box:fill-box;transform-origin:center;animation:s 6s linear infinite}@keyframes s{to{transform:rotate(360deg)}}.d{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.3}}</style>
-<circle cx="12" cy="12" r="9" fill="none" stroke="#8fb8e8" stroke-width="1.6" stroke-dasharray="4 3" class="r"/>
-<circle cx="12" cy="12" r="3.2" fill="#8fb8e8" class="d"/>
-</svg>
