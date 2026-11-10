@@ -1,301 +1,406 @@
-Ahmed Ansari
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:111827,50:312E81,100:7C3AED&text=AHMED%20ANSARI&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20ENGINEER%20%7C%20AGENTIC%20AI%20%7C%20AI%20AUTOMATION&descAlignY=65&descSize=16&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:080B18,35:17164A,70:312E81,100:0891B2&text=AHMED%20ANSARI&fontColor=FFFFFF&fontSize=65&fontAlignY=42&desc=AGENTIC%20AI%20%7C%20AI%20ENGINEERING%20%7C%20AI%20AUTOMATION&descAlignY=63&descSize=15&animation=fadeIn" />
 
 <br/>
 
-### Engineering Intelligence. Building Autonomous Systems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=8B9CFB&center=true&vCenter=true&width=800&lines=Engineering+Autonomous+AI+Systems;Building+Intelligent+AI+Agents;Designing+Production-Ready+AI+Architecture;Automating+Real-World+Business+Operations;Turning+Complex+Problems+Into+Intelligent+Solutions" />
 
-I build intelligent AI agents, autonomous workflows, and AI-powered systems that transform complex processes into practical solutions.
+<br/><br/>
 
-<a href="https://ahmedansari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/AHMEDANSARI0"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://linkedin.com/in/ahmedansari15"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+**I DON'T JUST BUILD CHATBOTS. I ENGINEER INTELLIGENT SYSTEMS.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Agentic+AI+Systems;Engineering+Intelligent+Automations;Designing+Autonomous+AI+Workflows;Turning+Complex+Problems+Into+AI+Solutions" />
+*Building the next generation of autonomous agents, AI-powered software and intelligent automation.*
+
+<br/>
+
+<a href="https://ahmedansari.vercel.app">
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/ahmedansari15">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/AHMEDANSARI0">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AHMEDANSARI0&style=flat-square&color=6366F1&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-## `01` / ABOUT ME
+<div align="center">
 
-I'm Ahmed Ansari, an AI-focused developer passionate about engineering intelligent systems that can reason, interact with tools, automate processes, and accomplish meaningful tasks.
+# ◈ THE ENGINEERING IDENTITY
 
-My primary focus is **Agentic AI, AI Engineering, and AI Automation**.
+### Three disciplines. One engineering vision.
 
-I explore how large language models, autonomous agents, APIs, memory systems, and workflow orchestration can work together to create practical AI-powered solutions.
-
-I don't see AI as just a chatbot or a text-generation tool. I see it as an engineering opportunity to build systems that can understand objectives, make decisions, use tools, and execute tasks responsibly.
-
-**What drives my work:**
-
-- Building autonomous and semi-autonomous AI agents.
-- Engineering intelligent business automation.
-- Designing multi-agent architectures and orchestration systems.
-- Connecting AI models with real-world tools and services.
-- Creating reliable AI systems with human oversight.
-- Turning repetitive operations into intelligent workflows.
-
-## `02` / CORE SPECIALIZATIONS
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### Agentic AI Engineering
+### ◉ AGENTIC AI
 
-- Autonomous AI agents
-- Multi-agent systems
-- Agent orchestration
-- Tool calling and execution
-- Task planning and reasoning
-- Memory and context management
-- Human-in-the-loop execution
+Autonomous Intelligence
 
-</td>
-<td width="50%" valign="top">
-
-### AI Automation Engineering
-
-- Intelligent workflow automation
-- LLM-powered automation
-- API integrations
-- Business process automation
-- AI customer support systems
-- Event-driven workflows
-- Automated decision systems
+- AI Agents
+- Multi-Agent Systems
+- Agent Orchestration
+- Tool Calling
+- Reasoning & Planning
+- Agent Memory
+- Autonomous Execution
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### AI Systems Architecture
+### ◈ AI ENGINEERING
 
-- LLM integration
-- Model routing
-- RAG architectures
-- AI evaluation
-- Context engineering
-- Execution sandboxes
-- Safety and approval systems
+Intelligent Architecture
+
+- LLM Engineering
+- RAG Systems
+- Model Routing
+- Context Engineering
+- AI Evaluation
+- Backend Architecture
+- Production AI Systems
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### Software Engineering
+### ⌘ AI AUTOMATION
 
-- Python development
-- Backend architecture
-- REST API development
-- Database engineering
-- Full-stack applications
-- Cloud deployment
-- System integration
+Intelligent Operations
+
+- Workflow Engineering
+- Business Automation
+- API Integrations
+- AI Customer Support
+- Event-Driven Systems
+- Process Automation
+- Autonomous Workflows
 
 </td>
 </tr>
 </table>
 
-## `03` / TECHNOLOGY STACK
+---
 
-Technologies and tools I work with across AI engineering, automation, and software development.
+## 01 / ABOUT THE ENGINEER
 
-### AI & LLM Ecosystem
+I'm **Ahmed Ansari**, an AI-focused developer interested in engineering intelligent systems that go beyond conventional software interactions.
 
-<p>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge" />
-</p>
+My work revolves around combining AI models, autonomous agents, software engineering, APIs, databases and workflow orchestration to solve real-world problems.
 
-### Automation & Agent Engineering
+I focus on building systems that can:
 
-<p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Integrations-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Workflow_Engineering-0891B2?style=for-the-badge" />
-</p>
+- Understand objectives and break them into actionable tasks.
+- Reason, plan and interact with external tools.
+- Execute intelligent workflows with appropriate human oversight.
+- Connect AI capabilities with real business operations.
+- Maintain context, evaluate results and improve execution.
+- Transform repetitive processes into reliable automated systems.
 
-### Programming & Frameworks
+**My philosophy:**
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+> Intelligence is valuable when it can do something meaningful. I focus on engineering AI that doesn't just respond — it actually helps get things done.
 
-### Databases & Infrastructure
+---
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+## 02 / WHAT I ENGINEER
 
-## `04` / FEATURED PROJECTS
+<details>
+<summary><b>◉ AGENTIC AI SYSTEMS</b></summary>
 
-### 01. OmniFlow
+- Autonomous task execution architectures.
+- Multi-agent collaboration and orchestration.
+- Dynamic tool creation and execution.
+- Agent planning and reasoning.
+- Persistent memory and context management.
+- Human-in-the-loop approval mechanisms.
+- Sandboxed execution environments.
+- Task verification and recovery.
+
+</details>
+
+<details>
+<summary><b>◈ AI ENGINEERING & ARCHITECTURE</b></summary>
+
+- LLM-powered applications.
+- Retrieval-Augmented Generation.
+- Context engineering.
+- Model selection and routing.
+- AI backend and API development.
+- Intelligent knowledge systems.
+- AI evaluation and reliability.
+- Local-first and hybrid AI architectures.
+
+</details>
+
+<details>
+<summary><b>⌘ AI AUTOMATION & WORKFLOW ENGINEERING</b></summary>
+
+- Intelligent business process automation.
+- AI-powered customer support.
+- WhatsApp and communication automation.
+- API-based integrations.
+- Event-driven workflow architectures.
+- Automated lead generation workflows.
+- E-commerce operations automation.
+- Human approval and exception handling.
+
+</details>
+
+---
+
+## 03 / TECHNOLOGY ECOSYSTEM
+
+<div align="center">
+
+### AI & LLM ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge"/>
+
+### AUTOMATION & ORCHESTRATION
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Integration-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Workflow_Engineering-0891B2?style=for-the-badge"/>
+
+### DEVELOPMENT & FRAMEWORKS
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,flask,tailwind&theme=dark"/>
+
+### DATABASES & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,vercel&theme=dark"/>
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black"/>
+
+</div>
+
+---
+
+## 04 / SELECTED ENGINEERING PROJECTS
+
+*Ideas engineered into real software systems.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ OmniFlow
 
 **AI-Powered Business Automation Platform**
 
-An ambitious automation platform designed to bring intelligent agents, customer communication, workflow orchestration, and business operations into one ecosystem.
+An ambitious platform bringing intelligent agents, customer communication and business workflow orchestration into one ecosystem.
 
-**Engineering focus:**
-- AI-powered customer interaction.
-- Business-specific agent context.
-- Workflow orchestration.
+**Engineering focus**
+
+- Business-specific AI agents.
+- Intelligent customer interactions.
 - Multi-channel communication.
-- Backend control-plane architecture.
+- Workflow orchestration.
+- Flask-based control plane.
 - Scalable automation infrastructure.
 
-[Explore Repository](https://github.com/AHMEDANSARI0/Omniflow)
+<a href="https://github.com/AHMEDANSARI0/Omniflow">↗ EXPLORE PROJECT</a>
 
-### 02. Omni-Assistant
+</td>
+<td width="50%" valign="top">
+
+### ◉ Omni-Assistant
 
 **Local-First Hybrid AI Assistant**
 
-An AI assistant project focused on natural-language task execution and intelligent tool orchestration.
+An intelligent assistant architecture focused on natural-language task execution and autonomous tool orchestration.
 
-**Engineering focus:**
+**Engineering focus**
+
 - Natural-language task execution.
 - Dynamic tool creation.
 - Persistent memory.
 - Sandboxed execution.
-- Local-first and hybrid AI architecture.
-- Human approval for sensitive actions.
-- Task verification and recovery.
+- Local and hybrid AI.
+- Human approval mechanisms.
+- Verification and recovery.
 
-[Explore Repository](https://github.com/AHMEDANSARI0/Omni-Assistant)
+<a href="https://github.com/AHMEDANSARI0/Omni-Assistant">↗ EXPLORE PROJECT</a>
 
-### 03. Nabat
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⌘ Nabat
 
 **E-Commerce & Digital Commerce Platform**
 
-A private-label e-commerce project focused on creating a complete digital commerce experience.
+A private-label commerce project focused on a modern storefront and database-driven business management.
 
-**Engineering focus:**
-- Modern storefront architecture.
+**Engineering focus**
+
+- Next.js application architecture.
 - Product and order management.
 - Database-driven administration.
 - E-commerce operations.
-- Scalable application design.
+- Scalable application structure.
 
-[Explore Repository](https://github.com/AHMEDANSARI0/e-com)
+<a href="https://github.com/AHMEDANSARI0/e-com">↗ EXPLORE PROJECT</a>
 
-*Projects may be under active development. Their descriptions represent project goals and engineering focus, not necessarily completed production capabilities.*
+</td>
+<td width="50%" valign="top">
 
-## `05` / MY ENGINEERING APPROACH
+### ◇ EXPLORE MORE
 
-I approach AI development with a systems-engineering mindset.
+**Research, Experiments & Engineering**
 
-```text
-REAL-WORLD PROBLEM
-        |
-        v
-  UNDERSTAND OBJECTIVE
-        |
-        v
-  DESIGN AI ARCHITECTURE
-        |
-        v
-  CONNECT MODELS & TOOLS
-        |
-        v
-  EXECUTE INTELLIGENTLY
-        |
-        v
-  VERIFY THE RESULTS
-        |
-        v
-  IMPROVE & OPTIMIZE
-```
+Explore my repositories for additional experiments, integrations, software engineering and AI development.
 
-My engineering principles:
+- AI experiments.
+- Backend development.
+- Automation workflows.
+- API integrations.
+- Intelligent applications.
 
-- **Intelligence:** Use AI where it creates real value.
-- **Autonomy:** Enable systems to perform meaningful tasks.
-- **Control:** Keep sensitive actions under appropriate human supervision.
-- **Reliability:** Verify execution instead of trusting assumptions.
-- **Efficiency:** Build lightweight and performant solutions.
-- **Security:** Treat safety as part of the architecture.
+<a href="https://github.com/AHMEDANSARI0?tab=repositories">↗ ALL REPOSITORIES</a>
 
-## `06` / CURRENT EXPLORATION
+</td>
+</tr>
+</table>
 
-Areas I'm actively interested in developing further:
+<sub>Project descriptions represent their engineering goals and focus areas; features may still be under active development.</sub>
 
-- Advanced Agentic AI architectures.
-- Multi-agent collaboration.
-- Autonomous task execution.
-- LLM orchestration and model routing.
-- Retrieval-Augmented Generation.
-- Long-term agent memory.
-- Tool-use reliability and evaluation.
-- AI-powered business operations.
-- Local-first and hybrid AI infrastructure.
+---
 
-## `07` / GITHUB ACTIVITY
+## 05 / HOW I THINK ABOUT ENGINEERING
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHMEDANSARI0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDANSARI0&layout=compact&theme=tokyonight&hide_border=true" />
+```mermaid
+flowchart TD
+    A["REAL-WORLD PROBLEM"] --> B["UNDERSTAND THE OBJECTIVE"]
+    B --> C["DESIGN INTELLIGENT ARCHITECTURE"]
+    C --> D["CONNECT MODELS & TOOLS"]
+    D --> E["PLAN & EXECUTE"]
+    E --> F["VERIFY THE OUTCOME"]
+    F --> G["OPTIMIZE & IMPROVE"]
+    G -.-> B
 
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=AHMEDANSARI0&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHMEDANSARI0&theme=tokyo-night&hide_border=true&area=true" />
+    style A fill:#312E81,color:#fff,stroke:#818CF8
+    style C fill:#312E81,color:#fff,stroke:#818CF8
+    style E fill:#164E63,color:#fff,stroke:#22D3EE
+    style F fill:#164E63,color:#fff,stroke:#22D3EE
+```
 
 </div>
 
-## `08` / LET'S CONNECT
+My engineering principles:
 
-I'm always interested in connecting with people working on AI engineering, Agentic AI, intelligent automation, and innovative software products.
+| Principle | Philosophy |
+|---|---|
+| Intelligence | Use AI where it creates real value. |
+| Autonomy | Let systems accomplish meaningful tasks. |
+| Reliability | Verify execution and outcomes. |
+| Security | Make safety part of the architecture. |
+| Control | Keep sensitive actions appropriately supervised. |
+| Efficiency | Build performant, maintainable systems. |
 
-Whether it's discussing an AI architecture, solving a business automation challenge, or building something meaningful, let's connect.
+---
+
+## 06 / CURRENT EXPLORATION
+
+Currently interested in pushing the boundaries of:
+
+- Advanced Agentic AI architectures.
+- Multi-agent collaboration.
+- Autonomous software engineering.
+- Long-term agent memory.
+- LLM orchestration and model routing.
+- AI-powered business operations.
+- Reliable tool-use and execution.
+- Local-first and hybrid AI infrastructure.
+
+---
+
+## 07 / GITHUB ANALYTICS
 
 <div align="center">
 
-<a href="https://ahmedansari.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHMEDANSARI0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<a href="https://github.com/AHMEDANSARI0">
-<img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDANSARI0&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=AHMEDANSARI0&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHMEDANSARI0&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 08 / CONNECT WITH ME
+
+<div align="center">
+
+### LET'S BUILD SOMETHING INTELLIGENT.
+
+Open to meaningful conversations, engineering collaborations, AI projects and opportunities involving intelligent automation.
+
+<br/>
+
+<a href="https://ahmedansari.vercel.app">
+<img src="https://img.shields.io/badge/PERSONAL_PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/ahmedansari15">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AHMEDANSARI0">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/YOUR_X_USERNAME">
+<img src="https://img.shields.io/badge/X%20%2F%20TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://reddit.com/user/YOUR_REDDIT_USERNAME">
+<img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_PUBLIC_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Think Beyond Chatbots. Engineer Intelligent Agents. Automate What Matters.**
+**PORTFOLIO:** https://ahmedansari.vercel.app
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:7C3AED&height=100&section=footer" width="100%" />
+**GITHUB:** https://github.com/AHMEDANSARI0
+
+<br/>
+
+### THINK BEYOND CHATBOTS.
+
+### ENGINEER INTELLIGENCE. BUILD AUTONOMY. AUTOMATE WHAT MATTERS.
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4F46E5,100:0891B2&height=120&section=footer"/>
 
 </div>
-You can click the Preview link to ta
-
-
-
-
-
-
-
-
